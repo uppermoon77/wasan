@@ -318,7 +318,7 @@ def main():
         force_expired = None  # auto per-file
 
     # Proses semua file target
-    target_files = generate_target_files(month_name="WASAN", year=2026, prefix="WN")
+    target_files = generate_target_files(month_name="OKTOBER", year=2026, prefix="WN")
     print(f"\n📁 Daftar file target ({len(target_files)}):")
     print(target_files)
 
