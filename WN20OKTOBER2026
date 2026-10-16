@@ -3931,6 +3931,26 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng
 #EXTINF:-1 xui-id="38" tvg-id="" tvg-name="HITS MOVIES" tvg-logo="" group-title="FILM",Hits Movies(SPM)
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
 ================
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (LC👻)
+https://m.rctiplus.com/tv/rcti
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (LC👻)
+https://embed.rctiplus.com/live/rcti/inewsid
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (LC👻)
+https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (LC👻)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd!!d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",NICK(1👻)
+https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",NICK(2👻)
+https://my-cors-proxy.olutuna.workers.dev/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon)/master.mpd!!9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",NICK(3👻)
+https://geogersr.itilstrem.workers.dev/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon)/master.mpd!!9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",NICK(4👻)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd!!676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
 
 ================
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (LC👻)
