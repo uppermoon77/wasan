@@ -3901,6 +3901,12 @@ https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",Nick Jr. Pluto TV (USA)
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",Nickelodeon (INDO)
+https://filexott.uk:8443/live/ahsan627/62627288292/302290.ts
+
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",Nick Jr (INDO)
+https://filexott.uk:8443/live/ahsan627/62627288292/302289.ts
+
 #EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK", NICKELODEON (🍬SUBJECT TES)
 http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
 
@@ -11333,10 +11339,32 @@ START | BRI LIGA 1
 
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BOLA | BRI LIGA 1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1", 19:00 WIB Persita vs Persija
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel29.m3u8?wsSecret=5bf6e96bcc874032f2fdaf8179daaa7d&wsABSTime=1792255342
+
+#EXTINF:-1 tvg-id="kltra_41c0d1df-9aab-4baf-b807-98f7250a5b7f" tvg-name="[S1] [UPCOMING] [Indonesia Super League] Persib vs Persik Kediri - Server 1 (Kltra - SD [IOS]) • 19:00 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/RpZprl39y1opAvgF7NhPVg_96x96.png" group-title="BOLA | BRI LIGA 1",[S1] [UPCOMING] [Indonesia Super League] Persib vs Persik Kediri - Server 1 (Kltra - SD [IOS]) • 19:00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://kltratvplay.elutuna.workers.dev/player/hybrid-4474581-1?src=https%3A%2F%2Fgreen-bush-d67f.elutuna.workers.dev%2Fstream%2Fhybrid-4474581-1%2Fc4e29ba6029be627a7f6%2Findex.m3u8%3FmatchId%3D4474581%26sportType%3D1&ttl=300
+
+#EXTINF:-1 tvg-id="kltra_cb354c3d-2dcd-4065-a024-eaeed3df27fe" tvg-name="[S1] [UPCOMING] [Indonesia Super League] Persebaya Surabaya vs PSS Sleman - Server 1 (Kltra - SD [IOS]) • 15:30 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/sknmRTJdv0tHxLHy-H1L8Q_96x96.png" group-title="BOLA | BRI LIGA 1",[S1] [UPCOMING] [Indonesia Super League] Persebaya Surabaya vs PSS Sleman - Server 1 (Kltra - SD [IOS]) • 15:30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-id="kltra_cb354c3d-2dcd-4065-a024-eaeed3df27fe" tvg-name="[S2] [UPCOMING] [Indonesia Super League] Persebaya Surabaya vs PSS Sleman - Server 2 (Kltra - SD [IOS]) • 15:30 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/sknmRTJdv0tHxLHy-H1L8Q_96x96.png" group-title="BOLA | BRI LIGA 1",[S2] [UPCOMING] [Indonesia Super League] Persebaya Surabaya vs PSS Sleman - Server 2 (Kltra - SD [IOS]) • 15:30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://kltratvplay.elutuna.workers.dev/player/hybrid-4474572-1?src=https%3A%2F%2Fgreen-bush-d67f.elutuna.workers.dev%2Fstream%2Fhybrid-4474572-1%2F14828cd7913dd8e213ec%2Findex.m3u8%3FmatchId%3D4474572%26sportType%3D1&ttl=300
+============
+
+#EXTINF:-1 tvg-id="rbtv-4474581" tvg-name="[Liga 1 Indonesia] Persib Bandung vs Persatuan Sepak Bola Indonesia Kediri • 19:00 WIB [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80" group-title="BOLA | BRI LIGA 1",Persib vs Persatuan Sepak Bola Indonesia Kediri • 19:00 WIB
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/awiL9-C6dNODvis0uNN5TmCiXIWMv1JuidWMVoJw2XBDz3fOiQ.m3u8?s=0
+
+#EXTINF:-1 tvg-id="rbtv-4474572" tvg-name="[Liga 1 Indonesia] Persebaya Surabaya vs PSS Sleman • 15:30 WIB [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/66307444901ddb38c881129b7ea0105e.png!w80" group-title="BOLA | BRI LIGA 1",Persebaya vs PSS Sleman • 15:30 WIB
+#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+https://rbtv-resolver.xr3ed-edge.workers.dev/live/h2-0NbAAJjNWTZhMOlY9shDXLemQyyElG5K5zX2Hjwf5kkd9HA.m3u8?s=0
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",INDOSIAR LIVE 1
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/11
